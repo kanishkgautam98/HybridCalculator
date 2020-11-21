@@ -1,6 +1,6 @@
 # HybridCalC
 
-SID - 16103104, Compiler Design
+Compiler Design
 
 A Hybrid calculator implemented via lex and yacc
 
@@ -11,7 +11,7 @@ Go to folder containing these files
 
 The table below lists the functions supported by HybridCalC
 </br>
-Complete Report for the project can be found here ->  <a href = "https://github.com/singh-l/HybridCalC/blob/master/SID_16103104_Compiler_Design_Project.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+Complete Report for the project can be found here ->  <a href = "https://github.com/kanishkgautam98/HybridCalculator/blob/main/Project%20Report.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
 
 
 
