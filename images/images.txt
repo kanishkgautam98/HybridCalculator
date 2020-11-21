@@ -1,0 +1,1 @@
+This contains table showing functions supported by HybridCalC
